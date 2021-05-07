@@ -2,6 +2,7 @@
 
 ## A Tower Defense game coded in C with the CSML library
 
+![MY_DEFENDER](my_defender.png)
 ## Usage
 
 ``` zsh
